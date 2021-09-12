@@ -1,2 +1,2 @@
-# development-best-practices
-Documentation with Development Best Practices
+# Knowledge Center
+Documentation with HowTos and Development Best Practices
